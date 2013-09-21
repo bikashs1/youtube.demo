@@ -2,7 +2,7 @@
 public class Access {
 
 	/**
-	 * @param args
+	 * changes made
 	 */
 	public static void main(String[] args) {
 		Subscriber s=new Subscriber();
